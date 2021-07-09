@@ -1,0 +1,5 @@
+config:
+  host: devx-helloworld-springboot-hr1v7.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-hr1v7-docker-dev-local/devx-helloworld-springboot-hr1v7
+    tag: 0.0.1-SNAPSHOT
